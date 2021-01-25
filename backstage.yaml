@@ -4,7 +4,7 @@ metadata:
   name: GITExample
   description: example.com
   annotations:
-    github.com: freshdesk/helpkit
+    github.com/project-slug: freshdesk/helpkit
 spec:
   type: service
   lifecycle: experimental
