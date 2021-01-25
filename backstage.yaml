@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: freshdesk/helpkit
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: guest
