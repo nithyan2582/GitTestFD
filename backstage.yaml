@@ -4,8 +4,7 @@ metadata:
   name: GITExample
   description: example.com
   annotations:
-    github.com/project-slug: freshdesk/helpkit
-    backstage.io/techdocs-ref: url:https://github.com/backstage/backstage/tree/master
+    github.com/project-slug: freshdesk/helpkit    
 spec:
   type: service
   lifecycle: experimental
